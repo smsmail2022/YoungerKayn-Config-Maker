@@ -10,14 +10,12 @@ src-git routing https://github.com/openwrt/routing.git
 #src-git routing https://github.com/coolsnowwolf/routing
 #src-git routing https://gitee.com/YoungerKayn/routing
 
-
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git kenzo https://gitee.com/YoungerKayn/openwrt-packages
 
-#src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
 #src-git passwall https://gitee.com/YoungerKayn/openwrt-passwall
 
-src-git telephony https://github.com/openwrt/telephony.git
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 
 #src-git helloworld http://github.com/fw876/helloworld.git
