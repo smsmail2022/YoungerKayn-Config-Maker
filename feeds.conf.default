@@ -20,7 +20,6 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git telephony https://github.com/openwrt/telephony.git
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 
-src-git luci-app-omcproxy https://github.com/riverscn/luci-app-omcproxy.git
 #src-git helloworld http://github.com/fw876/helloworld.git
 #src-git oui http://github.com/zhaojh329/oui.git
 #src-git video http://github.com/openwrt/video.git
